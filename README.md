@@ -1,1 +1,1 @@
-# lottery-page-privacy
+# 당첨각 개인정보처리방침 페이지
